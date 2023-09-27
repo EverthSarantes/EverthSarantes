@@ -5,7 +5,7 @@
 Actualmente estoy aprendiendo Arduino y C++ para proyectos de robotica y domotica.
 
 ## Estadisticas de GitHub
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EverthSarantes&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EverthSarantes&theme=github_dark)
 ![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=EverthSarantes&theme=github_dark)
 ![](https://github-profile-trophy.vercel.app/?username=EverthSarantes&theme=github_dark)
