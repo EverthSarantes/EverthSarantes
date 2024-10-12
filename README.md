@@ -16,7 +16,6 @@ Actualmente estoy aprendiendo Arduino y C++ para proyectos de robotica y domotic
 
 - ![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 - ![](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-- ![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 - ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 
 ## Frameworks
@@ -41,10 +40,6 @@ Actualmente estoy aprendiendo Arduino y C++ para proyectos de robotica y domotic
 ## Proyectos destacados
 
 Edufy: Un sistema web educativo para estudiantes y profesores con el objetivo de ser accesible para todos sin importar si nivel adquisitivo o conocimientos técnicos.
-
-Running for Allah: Un emocionante juego de aventuras en 2D programado en Unity. Implementé la lógica del juego, los gráficos y la jugabilidad para ofrecer una experiencia de juego cautivadora.
-
-EasyQl: Una libreria de C# para facilitar la conexión a base de datos SQLServer y las consultas SQL en Windows Forms.
 
 ## Contacto
 
