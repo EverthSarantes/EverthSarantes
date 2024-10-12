@@ -10,6 +10,8 @@ Actualmente estoy aprendiendo Arduino y C++ para proyectos de robotica y domotic
 ![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=EverthSarantes&theme=github_dark)
 ![](https://github-profile-trophy.vercel.app/?username=EverthSarantes&theme=github_dark)
 
+[![committers.top badge](https://user-badge.committers.top/nicaragua_private/EverthSarantes.svg)](https://user-badge.committers.top/nicaragua_private/EverthSarantes)
+
 ## Lenguajes
 
 - ![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
