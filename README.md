@@ -1,6 +1,6 @@
 # Everth Sarantes - Desarrollador web backend y Desarrollador de videojuegos indie
 
-¡Hola! Soy Everth Sarantes, un apasionado desarrollador web backend y desarrollador de videojuegos indie. Me especializo en tecnologías como PHP, Laravel, SQL, MySQL, SQLServer, C# y Python. Tengo experiencia en el desarrollo de aplicaciones web robustas y escalables, así como en la creación de emocionantes y envolventes experiencias de juego.
+¡Hola! Soy Everth Sarantes, un apasionado desarrollador web backend. Me especializo en tecnologías como PHP, Laravel, SQL, MySQL, SQLServer, C# y Python. Tengo experiencia en el desarrollo de aplicaciones web robustas y escalables.
 
 Actualmente estoy aprendiendo Arduino y C++ para proyectos de robotica y domotica.
 
@@ -33,7 +33,6 @@ Actualmente estoy aprendiendo Arduino y C++ para proyectos de robotica y domotic
 
 - Desarrollo de aplicaciones web backend utilizando PHP y Laravel.
 - Diseño y optimización de bases de datos utilizando SQL, MySQL y SQLServer.
-- Programación de videojuegos utilizando C# con Unity.
 - Creación de APIs y servicios web.
 - Colaboración en equipos de desarrollo ágiles.
 
