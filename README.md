@@ -2,7 +2,7 @@
 
 ## 🚀 Full Stack Web Developer
 
-No tengo un solo rol: hago de todo, desde el diseño de la arquitectura y base de datos hasta el desarrollo, testeo y despliegue en servidores físicos. Si tuviera que resumirlo: soy **Desarrollador Web Full Stack** especializado en **Laravel + Inertia + Vue**.
+**Desarrollador Web Full Stack** especializado en **Laravel + Inertia + Vue**.
 
 ---
 
